@@ -1,0 +1,10 @@
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\KDWebApp\bin\Debug\netcoreapp2.0\KDWebApp.deps.json
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\KDWebApp\bin\Debug\netcoreapp2.0\KDWebApp.runtimeconfig.json
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\KDWebApp\bin\Debug\netcoreapp2.0\KDWebApp.runtimeconfig.dev.json
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\KDWebApp\bin\Debug\netcoreapp2.0\KDWebApp.dll
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\KDWebApp\bin\Debug\netcoreapp2.0\KDWebApp.pdb
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\KDWebApp\obj\Debug\netcoreapp2.0\KDWebApp.csproj.CoreCompileInputs.cache
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\KDWebApp\obj\Debug\netcoreapp2.0\KDWebApp.AssemblyInfoInputs.cache
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\KDWebApp\obj\Debug\netcoreapp2.0\KDWebApp.AssemblyInfo.cs
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\KDWebApp\obj\Debug\netcoreapp2.0\KDWebApp.dll
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\KDWebApp\obj\Debug\netcoreapp2.0\KDWebApp.pdb
